@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       {console.log('v Testing')}
       <h1>Hi Vicky</h1>
-      <p>How are you doing today?</p>
+      <p>How are you doing 2022?</p>
       <img src = {pic}/>
-    </div>
+    </div> 
   );
 }
 
